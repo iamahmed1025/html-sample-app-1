@@ -11,3 +11,5 @@
 ### Commite message
     git commit -m "first commit"
 
+### Add remote repository 
+    git remote add origin https://github.com/iamahmed1025/html-sample-app-1.git
