@@ -13,3 +13,6 @@
 
 ### Add remote repository 
     git remote add origin https://github.com/iamahmed1025/html-sample-app-1.git
+
+### Push remote orgin new branch
+    git push -u origin branch-name
